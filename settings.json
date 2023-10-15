@@ -1,0 +1,9 @@
+{
+    "editor.indentSize": "tabSize",
+    "editor.detectIndentation": false,
+    "editor.tabSize": 2,
+    "javascript.format.semicolons": "insert",
+    "javascript.preferences.quoteStyle": "single",
+    "files.insertFinalNewline": true,
+    "workbench.colorTheme": "Tomorrow Night Blue"
+}
